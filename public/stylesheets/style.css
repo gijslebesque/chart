@@ -1,0 +1,19 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.chart-container {
+  position: relative;
+  height: 10vh;
+  width: 90vw;
+}
